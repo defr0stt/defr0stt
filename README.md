@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @defr0stt
-- 👀 I’m interested in backend
+- 👀 I’m interested in improving my level of programming
 - 🌱 I’m currently learning C\C++
 
 
