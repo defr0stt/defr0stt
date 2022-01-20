@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @defr0stt
 - 👀 I’m interested in improving my level of programming
-- 🌱 I’m currently learning C\C++, Java
+- 🌱 I’m currently learning Java
 - 💻 My codewars account : https://www.codewars.com/users/defr0stt
 
 <!---
